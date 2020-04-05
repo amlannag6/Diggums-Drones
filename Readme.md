@@ -13,6 +13,30 @@ As the game progresses, the game becomes more complex. The game will start with 
 
 There will be a support system and guides in this game that will help confused players. This game is suitable for anyone interested in diving into the world of programming whether it’s just a hobby or career. (*modified)
 
+# Project Management: (Extreme Programming (XP))
+eXtreme Programming (XP) is a software development methodology which is intended to improve software quality and responsiveness to changing customer requirements.
+
+  # Basic principles will be followed :
+  1. Coding
+  2. Testing
+  3. Listening
+  4. Designing
+  5. Feedback
+  6. Simplicity
+# Group Work Management : (GITHUB)
+https://github.com/OskarJensen/Diggums-Drones
+
+# Testing Strategy: (Android Virual Device Platform) The testing of our game will strictly follow the development state.
+
+Tests will be carried out after the addition or completion of each component and functionality.
+
+# User Interface:
+The user interface must be adaptive to fit many sizes of screens, and the UI elements must reflect the changes in character stats effects.
+
+Game will based on standered Android size. 
+
+Responsiveness - we will automate a series of attacks and special effects on a player character (the character will be healed to full HP after HP reaches 1) and observe the UI responding to these actions. AirTest will gradually increase the speed with which these actions are carried out and the system passes the test if all the registered actions are reflected on the UI when APM is under 500.
+
 # Audio Sources
 
 ### Drone SE:
